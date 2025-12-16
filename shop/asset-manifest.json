@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shop/static/css/main.18108bdc.css",
-    "main.js": "/shop/static/js/main.03cba0f5.js",
-    "static/js/438.82470d3a.chunk.js": "/shop/static/js/438.82470d3a.chunk.js",
-    "static/js/805.589fb548.chunk.js": "/shop/static/js/805.589fb548.chunk.js",
-    "static/js/453.3aa5303d.chunk.js": "/shop/static/js/453.3aa5303d.chunk.js",
-    "static/js/561.a90c846c.chunk.js": "/shop/static/js/561.a90c846c.chunk.js",
-    "static/media/maru.jpg": "/shop/static/media/maru.eb0f2a2fa86dc5f7703d.jpg",
-    "index.html": "/shop/index.html",
-    "main.18108bdc.css.map": "/shop/static/css/main.18108bdc.css.map",
-    "main.03cba0f5.js.map": "/shop/static/js/main.03cba0f5.js.map",
-    "438.82470d3a.chunk.js.map": "/shop/static/js/438.82470d3a.chunk.js.map",
-    "805.589fb548.chunk.js.map": "/shop/static/js/805.589fb548.chunk.js.map",
-    "453.3aa5303d.chunk.js.map": "/shop/static/js/453.3aa5303d.chunk.js.map",
-    "561.a90c846c.chunk.js.map": "/shop/static/js/561.a90c846c.chunk.js.map"
+    "main.css": "/codingapple-react/shop/static/css/main.58c007a9.css",
+    "main.js": "/codingapple-react/shop/static/js/main.b7d3791b.js",
+    "static/js/438.82470d3a.chunk.js": "/codingapple-react/shop/static/js/438.82470d3a.chunk.js",
+    "static/js/805.589fb548.chunk.js": "/codingapple-react/shop/static/js/805.589fb548.chunk.js",
+    "static/js/453.3aa5303d.chunk.js": "/codingapple-react/shop/static/js/453.3aa5303d.chunk.js",
+    "static/js/561.362a89c5.chunk.js": "/codingapple-react/shop/static/js/561.362a89c5.chunk.js",
+    "static/media/maru.jpg": "/codingapple-react/shop/static/media/maru.eb0f2a2fa86dc5f7703d.jpg",
+    "index.html": "/codingapple-react/shop/index.html",
+    "main.58c007a9.css.map": "/codingapple-react/shop/static/css/main.58c007a9.css.map",
+    "main.b7d3791b.js.map": "/codingapple-react/shop/static/js/main.b7d3791b.js.map",
+    "438.82470d3a.chunk.js.map": "/codingapple-react/shop/static/js/438.82470d3a.chunk.js.map",
+    "805.589fb548.chunk.js.map": "/codingapple-react/shop/static/js/805.589fb548.chunk.js.map",
+    "453.3aa5303d.chunk.js.map": "/codingapple-react/shop/static/js/453.3aa5303d.chunk.js.map",
+    "561.362a89c5.chunk.js.map": "/codingapple-react/shop/static/js/561.362a89c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18108bdc.css",
-    "static/js/main.03cba0f5.js"
+    "static/css/main.58c007a9.css",
+    "static/js/main.b7d3791b.js"
   ]
 }
